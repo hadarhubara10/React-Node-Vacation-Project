@@ -1,0 +1,7 @@
+export const ActionTypes = {
+  // EDIT_TODO: 'EDIT_TODO',
+  SET_USER: 'SET_USER',
+  SET_USERS: 'SET_USERS',
+  SET_TOKEN: 'SET_TOKEN',
+  SET_VACATIONS: 'SET_VACATIONS',
+};

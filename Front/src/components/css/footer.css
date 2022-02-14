@@ -1,0 +1,10 @@
+.link_hover:hover {
+  color: rgb(214, 214, 214);
+  /* color: black; */
+}
+@media screen and (min-height: 800px) {
+  .footer_media_query {
+    background-color: black;
+    border-top: 1px solid black;
+  }
+}
